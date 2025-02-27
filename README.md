@@ -4,26 +4,34 @@ Automated CloudM project creation on Google Cloud Platform.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Pending
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* git packages on cloud sheel
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+* The script will check dependencies
+* It's an user prompt script so follow the guide when you proceed
+  
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+git clone https://github.com/waryz184/automated_cloudm_gcp
+```
+```
+cd automated_cloudm_gcp
+```
+```
+chmod +x start.sh
+```
+```
+./start.sh
 ```
 
 ## Help
@@ -37,8 +45,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Noé H  
+ex. [@Noé](https://www.linkedin.com/in/noehauchard/)
 
 ## Version History
 
@@ -50,13 +58,9 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GPL-3.0 license - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
