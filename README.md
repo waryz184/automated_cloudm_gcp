@@ -41,11 +41,6 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
-
-Contributors names and contact info
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/noehauchard/"/>
 ## Version History
 
 * 0.2
@@ -58,7 +53,8 @@ Contributors names and contact info
 
 This project is licensed under the GPL-3.0 license - see the LICENSE.md file for details
 
-## Acknowledgments
+## Social
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+<a href="https://www.linkedin.com/in/noehauchard/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+</a>
