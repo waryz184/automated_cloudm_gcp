@@ -45,9 +45,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Noé H  
-ex. [@Noé](https://www.linkedin.com/in/noehauchard/)
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/noehauchard/"/>
 ## Version History
 
 * 0.2
