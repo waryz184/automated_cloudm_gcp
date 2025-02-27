@@ -4,13 +4,16 @@ Automated CloudM project creation on Google Cloud Platform.
 
 ## Description
 
-Pending
+This script is used to automate the creation of a GCP project to let CloudM access the Google APIs.
+I wrote it with user input to customize the project creation based on the name and service account
+
+It's not based on the .ps1 in the Cloud M manual but using gcloud man to just have the minimalist commands.
 
 ## Getting Started
 
 ### Dependencies
 
-* git packages on cloud sheel
+* git packages on cloud sheel (by default, you have git and can clone repo)
 
 ### Installing
 
@@ -34,19 +37,9 @@ chmod +x start.sh
 ./start.sh
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+* V1
     * Initial Release
 
 ## License
